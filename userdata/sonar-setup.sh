@@ -117,4 +117,4 @@ echo "System reboot in 30 sec"
 sleep 30
 reboot
 # this is end of document
-#good bye
+#good night
